@@ -13,3 +13,4 @@ class TestHello(unittest.TestCase):
         self.assertEqual(hello(u'world'), u'hello world')
 
 print "Added by Marius"
+print "Attempt to trigger change source build."
