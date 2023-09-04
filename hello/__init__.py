@@ -3,7 +3,7 @@
 
 def goodbye(who):
     """function that says goodbye"""
-    return "bye x" + who
+    return "bye bye " + who
 
 
 def hello(who):
