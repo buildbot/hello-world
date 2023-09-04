@@ -3,9 +3,9 @@
 
 def goodbye(who):
     """function that says goodbye"""
-    return "bye bye " + who
+    return "bye " + who
 
 
 def hello(who):
     """function that greats"""
-    return "hello hello " + who
+    return "hello " + who
