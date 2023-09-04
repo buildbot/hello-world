@@ -8,4 +8,4 @@ def goodbye(who):
 
 def hello(who):
     """function that greats"""
-    return "hello " + who
+    return "greets " + who
