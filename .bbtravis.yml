@@ -15,3 +15,5 @@ install:
 # Tests running commands
 script:
   - trial hello
+
+xxx
