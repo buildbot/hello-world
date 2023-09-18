@@ -12,7 +12,7 @@ class TestHello(unittest.TestCase):
         self.assertEqual(hello("world"), "hello world")
 
     def test_bye(self):
-        self.assertEqual(goodbye("world"), "bye bye world")
+        self.assertEqual(goodbye("world"), "bye world")
 
     def test_world_unicode(self):
         """sample test with unicode"""
